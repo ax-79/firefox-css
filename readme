@@ -1,0 +1,6 @@
+first in about:config look for
+toolkit.legacyUserProfileCustomizations.stylesheets
+and set this to true to enable css 
+next type in about:support in the url bar and find the "profile directory"
+and copy over the chrome file 
+restart firefox and the changes should work
